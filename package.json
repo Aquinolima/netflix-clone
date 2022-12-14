@@ -1,0 +1,20 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "\"# netflix-clone\"",
+  "main": "Untitled-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aquinolima/netflix-clone.git"
+  },
+  "keywords": [],
+  "author": "Thiago Aquino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aquinolima/netflix-clone/issues"
+  },
+  "homepage": "https://github.com/Aquinolima/netflix-clone#readme"
+}
