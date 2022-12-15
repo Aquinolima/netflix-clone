@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Aquinolima/netflix-clone/issues"
   },
-  "homepage": "https://github.com/Aquinolima/netflix-clone#readme"
+  "homepage": "https://github.com/Aquinolima/netflix-clone#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
